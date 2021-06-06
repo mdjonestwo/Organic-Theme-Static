@@ -204,7 +204,7 @@ header .menu .dropdown .sub-menu a:hover{
     height: 80vh;
     background-position: center;
     background-size: cover;
-    background-image: url("/assets/jumbo-img.jpg");
+    background-image: url(./jumbo-img.jpg);
 }
 
 
